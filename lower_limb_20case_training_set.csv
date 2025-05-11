@@ -1,0 +1,21 @@
+pain_at_rest,night_pain,radiating_pain,numbness,weakness,bladder,calf_swelling,exertional_pain,posterior_leg_pain,medial_leg_pain,lateral_leg_pain,sudden_onset,swelling,tenderness,morning_stiffness,constant_pain,pain_with_resisted_pf,pain_with_dorsiflex_straight_knee,pain_with_dorsiflex_bent_knee,palpation_medial_tibia,palpation_fibula,confirmed_diagnosis
+1,1,0,0,1,0,1,0,0,1,0,1,1,0,1,1,0,0,1,1,0,Chronic Exertional Compartment Syndrome
+0,0,1,1,1,0,0,1,0,1,1,1,0,0,1,1,0,1,1,1,0,Peroneal Nerve Entrapment
+0,0,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,1,0,0,1,Tibial Stress Fractures
+0,1,1,1,0,1,0,1,1,0,1,0,1,1,0,0,1,1,1,1,0,Chronic Exertional Compartment Syndrome
+1,0,0,1,0,0,1,0,0,1,1,0,0,0,0,1,1,1,1,1,1,Lumbar Radiculopathy
+0,1,1,0,1,1,0,0,0,1,1,0,1,1,0,1,1,1,1,1,1,Chronic Exertional Compartment Syndrome
+0,0,1,1,0,0,1,0,1,1,1,0,0,0,0,1,1,0,1,1,0,Myopathies
+0,0,1,0,0,0,1,0,1,1,0,1,1,1,0,1,1,1,0,0,0,Gastrocnemius Muscle Tears
+0,0,1,0,0,1,1,1,1,1,0,0,0,0,1,1,0,1,1,1,0,Fibular Stress Fractures
+1,0,1,0,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1,Soleus Muscle Tears
+0,1,0,0,1,1,1,1,1,1,0,1,1,0,1,1,0,0,1,0,0,Deep Vein Thrombosis (DVT)
+1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,1,1,0,1,0,0,Lumbar Radiculopathy
+1,1,1,0,0,1,0,0,1,0,1,0,1,0,1,0,0,0,1,0,1,Peroneal Nerve Entrapment
+1,0,1,1,0,0,1,1,1,0,1,1,1,0,0,1,0,0,0,0,1,Fibular Stress Fractures
+0,1,1,0,0,1,1,0,1,1,0,1,0,1,0,1,1,0,1,0,0,Chronic Exertional Compartment Syndrome
+0,0,0,0,0,1,1,1,0,0,1,1,1,0,1,0,0,1,0,1,0,Gastrocnemius Muscle Tears
+0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,1,1,0,0,1,Deep Vein Thrombosis (DVT)
+1,0,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,1,Lumbar Radiculopathy
+0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,Chronic Exertional Compartment Syndrome
+0,1,1,1,1,1,1,1,0,0,1,1,0,1,0,0,0,1,1,1,0,Fibular Stress Fractures
